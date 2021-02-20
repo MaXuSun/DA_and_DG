@@ -199,14 +199,14 @@ BCDM|95.1|87.6|81.2|73.2|92.7|95.4|86.9|82.5|95.1|84.8|88.1|39.5|83.4|AAAI|2020|
 ### 2.2.2.VLCS
 >**Backbone:** *AlexNet*
 
-Name|Caltech|Labelme|Pascal|Sun|Avg|Conference|Year|Code Url|Paper Url|Title
-|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-|Epi-FCR|94.1|64.3|67.1|65.9|72.9|ICCV|2019|[link](https://github.com/HAHA-DL/Episodic-DG)|[link](https://openaccess.thecvf.com/content_ICCV_2019/papers/Li_Episodic_Training_for_Domain_Generalization_ICCV_2020_paper.pdf)|Episodic Training for Domain Generalization
-|JiGen|96.93|60.90|70.62|64.30|73.19|CVPR|2019|[link](https://github.com/fmcarlucci/JigenDG)|[link](https://openaccess.thecvf.com/content_CVPR_2019/papers/Carlucci_Domain_Generalization_by_Solving_Jigsaw_Puzzles_CVPR_2020_paper.pdf)|Domain Generalization by Solving Jigsaw Puzzles
-|MMLD(ResNet18)|96.66|58.77|71.96|68.13|73.88|AAAI|2020|[link](https://github.com/mil-tokyo/dg_mmld)|[link](https://ojs.aaai.org/index.php/AAAI/article/view/6846/6701)|Domain Generalization Using a Mixture of Multiple Latent Domains 
-|MetaVIB|97.37±0.63|62.66±0.35|70.28±0.71|67.85±0.17|74.54|ECCV|2020|-|[link](https://arxiv.org/pdf/2007.07645.pdf)|Learning to Learn with Variational Information Bottleneck for Domain Generalization
-|EISNet|97.33±0.36|63.49±0.82|69.83±0.48|68.02±0.81|74.67|ECCV|2020|[link](https://github.com/EmmaW10/EISNet)|[link](https://arxiv.org/pdf/2007.09318)|Learning from Extrinsic and Intrinsic Supervisions for Domain Generalization
-|RSC|97.61|61.86|73.93|68.32|75.43|ECCV|2020|[link](https://github.com/DeLightCMU/RSC)|[link](https://arxiv.org/pdf/2007.02456)|Self-Challenging Improves Cross-Domain Generalization
+Name|Caltech|Labelme|Pascal|Sun|Avg|Conference|Year|Code Url|Paper Url
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+|Epi-FCR|94.1|64.3|67.1|65.9|72.9|ICCV|2019|[link](https://github.com/HAHA-DL/Episodic-DG)|[link](https://openaccess.thecvf.com/content_ICCV_2019/papers/Li_Episodic_Training_for_Domain_Generalization_ICCV_2020_paper.pdf)|
+|JiGen|96.93|60.90|70.62|64.30|73.19|CVPR|2019|[link](https://github.com/fmcarlucci/JigenDG)|[link](https://openaccess.thecvf.com/content_CVPR_2019/papers/Carlucci_Domain_Generalization_by_Solving_Jigsaw_Puzzles_CVPR_2020_paper.pdf)|
+|MMLD(ResNet18)|96.66|58.77|71.96|68.13|73.88|AAAI|2020|[link](https://github.com/mil-tokyo/dg_mmld)|[link](https://ojs.aaai.org/index.php/AAAI/article/view/6846/6701)|
+|MetaVIB|97.37±0.63|62.66±0.35|70.28±0.71|67.85±0.17|74.54|ECCV|2020|-|[link](https://arxiv.org/pdf/2007.07645.pdf)|
+|EISNet|97.33±0.36|63.49±0.82|69.83±0.48|68.02±0.81|74.67|ECCV|2020|[link](https://github.com/EmmaW10/EISNet)|[link](https://arxiv.org/pdf/2007.09318)|
+|RSC|97.61|61.86|73.93|68.32|75.43|ECCV|2020|[link](https://github.com/DeLightCMU/RSC)|[link](https://arxiv.org/pdf/2007.02456)|
 
 ### 2.2.3.Office-Home
 >**Backbone:** *ResNet18*
