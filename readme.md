@@ -1,9 +1,9 @@
 # 1.Instruction
-&nbsp;&nbsp; This library contains papers, codes and results of unsupervised transfer learning for classification tasks from all top conferences in recent three years.We only included results from the most commonly used open source datasets.You can click "link" to jump to the corresponding codes or papers, if there is one on the Internet, otherwise you will see a "-".
+* This library contains papers, codes and results of unsupervised transfer learning for classification tasks from all top conferences in recent three years.We only included results from the most commonly used open source datasets.You can click "link" to jump to the corresponding codes or papers, if there is one on the Internet, otherwise you will see a "-".
 
-&nbsp;&nbsp; In front of each table, you will see the backbone of the network used in this table.Different backbones are marked with '()'.
+* In front of each table, you will see the backbone of the network used in this table.Different backbones are marked with '()'.
 
-&nbsp;&nbsp; Welcome to correct mistakes or add new content.
+* Welcome to correct mistakes or add new content.
 
 
 # 2.Result
