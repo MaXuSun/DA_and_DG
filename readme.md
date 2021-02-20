@@ -211,10 +211,10 @@ Name|Caltech|Labelme|Pascal|Sun|Avg|Conference|Year|Code Url|Paper Url|Title
 ### 2.2.3.Office-Home
 >**Backbone:** *ResNet18*
 
-|Name|Art|Clipart|Product|Real World|Avg|Conference|Year|Code Url|Paper Url|Title|
-|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-|JiGen|53.04|47.51|71.47|72.79|61.20|CVPR|2019|[link](https://github.com/fmcarlucci/JigenDG)|[link](https://openaccess.thecvf.com/content_CVPR_2019/papers/Carlucci_Domain_Generalization_by_Solving_Jigsaw_Puzzles_CVPR_2020_paper.pdf)|Domain Generalization by Solving Jigsaw Puzzles
-|L2A-OT|60.6|50.1|74.8|77.0|65.6|ECCV|2020|[link](https://github.com/mousecpn/L2A-OT)|[link](https://arxiv.org/pdf/2007.03304)|Learning to Generate Novel Domains for Domain Generalization
-|DSON|59.37|44.70|71.84|74.68|62.90|ECCV|2020|-|[link](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123670069.pdf)|Learning to Optimize Domain Specifific Normalization for Domain Generalization
-|RSC|58.42|47.90|71.63|74.54|63.12|ECCV|2020|[link](https://github.com/DeLightCMU/RSC)|[link](https://arxiv.org/pdf/2007.02456)|Self-Challenging Improves Cross-Domain Generalization
+|Name|Art|Clipart|Product|Real World|Avg|Conference|Year|Code Url|Paper Url|
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+|JiGen|53.04|47.51|71.47|72.79|61.20|CVPR|2019|[link](https://github.com/fmcarlucci/JigenDG)|[link](https://openaccess.thecvf.com/content_CVPR_2019/papers/Carlucci_Domain_Generalization_by_Solving_Jigsaw_Puzzles_CVPR_2020_paper.pdf)|
+|L2A-OT|60.6|50.1|74.8|77.0|65.6|ECCV|2020|[link](https://github.com/mousecpn/L2A-OT)|[link](https://arxiv.org/pdf/2007.03304)|
+|DSON|59.37|44.70|71.84|74.68|62.90|ECCV|2020|-|[link](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123670069.pdf)|
+|RSC|58.42|47.90|71.63|74.54|63.12|ECCV|2020|[link](https://github.com/DeLightCMU/RSC)|[link](https://arxiv.org/pdf/2007.02456)|
 
