@@ -1,10 +1,11 @@
 # 1.Instruction
-* This library contains papers, codes and results of unsupervised transfer learning for classification tasks from all top conferences in recent three years.We only included results from the most commonly used open source datasets.You can click "link" to jump to the corresponding codes or papers, if there is one on the Internet, otherwise you will see a "-".
+* This library contains papers, codes and results of unsupervised Domain Adaptation and Domain Generalization for classification tasks from all top conferences in recent three years.We only included results from the most commonly used open source datasets.You can click "link" to jump to the corresponding codes or papers, if there is one on the Internet, otherwise you will see a "-".
 
 * In front of each table, you will see the backbone of the network used in this table.Different backbones are marked with '()'.
 
 * Welcome to correct mistakes or add new content.
 
+**Click [here](https://maxusun.github.io/DA_and_DG/) to view the full form.**
 
 # 2.Result
 ## 2.1.DA
@@ -181,8 +182,10 @@ BCDM|95.1|87.6|81.2|73.2|92.7|95.4|86.9|82.5|95.1|84.8|88.1|39.5|83.4|AAAI|2020|
 |JiGen(ResNet18)|79.42|75.25|96.03|71.35|80.51|CVPR|2019|[link](https://github.com/fmcarlucci/JigenDG)|[link](https://openaccess.thecvf.com/content_CVPR_2019/papers/Carlucci_Domain_Generalization_by_Solving_Jigsaw_Puzzles_CVPR_2020_paper.pdf)|Domain Generalization by Solving Jigsaw Puzzles
 |MASF(ResNet18)|80.29|77.17|94.99|71.69|81.04|NeurIPS|2020|[link](https://github.com/biomedia-mira/masf)|[link](https://arxiv.org/pdf/1910.13581)|Domain Generalization via  Model-Agnostic Learning of Semantic Features
 |DG_via_ER(ResNet18)|80.70±0.71|76.40±0.34|96.65±0.21|71.77±1.27|81.38|NeurIPS|2020|[link](https://github.com/sshan-zhao/DG_via_ER)|[link](https://proceedings.neurips.cc/paper/2020/file/b98249b38337c5088bbc660d8f872d6a-Paper.pdf)|Domain Generalization via Entropy Regularization
+FFO-S-MLDG(ResNet18)|80.0|77.4|94.6|73.8|81.4|CVPR|2021|-|[link](https://arxiv.org/pdf/2004.01377v1.pdf)|Sequential Learning for Domain Generalization
 |DMG(ResNet18)|76.90|80.38|93.35|75.21|81.46|ECCV|2020|[link](https://github.com/prithv2/DMG)|[link](https://arxiv.org/pdf/2008.12840)|Learning to Balance Specifificity and Invariance for In and Out of Domain Generalization
 |Epi-FCR(ResNet18)|82.1|77.0|93.0|73.0|81.5|ICCV|2019|[link](https://github.com/HAHA-DL/Episodic-DG)|[link](https://openaccess.thecvf.com/content_ICCV_2019/papers/Li_Episodic_Training_for_Domain_Generalization_ICCV_2020_paper.pdf)|Episodic Training for Domain Generalization
+S-MLDG(ResNet18)|80.5|77.8|94.8|72.8|81.5|CVPR|2021|-|[link](https://arxiv.org/pdf/2004.01377v1.pdf)|Sequential Learning for Domain Generalization
 |MMLD(ResNet18)|81.28|77.16|96.09|72.22|81.83|AAAI|2020|[link](https://github.com/mil-tokyo/dg_mmld)|[link](https://ojs.aaai.org/index.php/AAAI/article/view/6846/6700)|Domain Generalization Using a Mixture of Multiple Latent Domains 
 |EISNet(ResNet18)|81.89±0.88|76.44±0.31|95.93±0.06|74.33±1.37|82.15|ECCV|2020|[link](https://github.com/EmmaW9/EISNet)|[link](https://arxiv.org/pdf/2007.09317)|Learning from Extrinsic and Intrinsic Supervisions for Domain Generalization
 |MASF(ResNet50)|82.89|80.49|95.01|72.29|82.67|NeurIPS|2020|[link](https://github.com/biomedia-mira/masf)|[link](https://arxiv.org/pdf/1910.13582)|Domain Generalization via  Model-Agnostic Learning of Semantic Features
@@ -201,8 +204,10 @@ BCDM|95.1|87.6|81.2|73.2|92.7|95.4|86.9|82.5|95.1|84.8|88.1|39.5|83.4|AAAI|2020|
 
 Name|Caltech|Labelme|Pascal|Sun|Avg|Conference|Year|Code Url|Paper Url|Title
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+FFO-S-MLDG|68.1|63.1|94.8|65.2|72.8|CVPR|2021|-|[link](https://arxiv.org/pdf/2004.01377v1.pdf)|Sequential Learning for Domain Generalization
 |Epi-FCR|94.1|64.3|67.1|65.9|72.9|ICCV|2019|[link](https://github.com/HAHA-DL/Episodic-DG)|[link](https://openaccess.thecvf.com/content_ICCV_2019/papers/Li_Episodic_Training_for_Domain_Generalization_ICCV_2020_paper.pdf)|Episodic Training for Domain Generalization
 |JiGen|96.93|60.90|70.62|64.30|73.19|CVPR|2019|[link](https://github.com/fmcarlucci/JigenDG)|[link](https://openaccess.thecvf.com/content_CVPR_2019/papers/Carlucci_Domain_Generalization_by_Solving_Jigsaw_Puzzles_CVPR_2020_paper.pdf)|Domain Generalization by Solving Jigsaw Puzzles
+S-MLDG|68.7|64.8|96.4|64.0|73.5|CVPR|2021|-|[link](https://arxiv.org/pdf/2004.01377v1.pdf)|Sequential Learning for Domain Generalization
 |MMLD(ResNet18)|96.66|58.77|71.96|68.13|73.88|AAAI|2020|[link](https://github.com/mil-tokyo/dg_mmld)|[link](https://ojs.aaai.org/index.php/AAAI/article/view/6846/6701)|Domain Generalization Using a Mixture of Multiple Latent Domains 
 |MetaVIB|97.37±0.63|62.66±0.35|70.28±0.71|67.85±0.17|74.54|ECCV|2020|-|[link](https://arxiv.org/pdf/2007.07645.pdf)|Learning to Learn with Variational Information Bottleneck for Domain Generalization
 |EISNet|97.33±0.36|63.49±0.82|69.83±0.48|68.02±0.81|74.67|ECCV|2020|[link](https://github.com/EmmaW10/EISNet)|[link](https://arxiv.org/pdf/2007.09318)|Learning from Extrinsic and Intrinsic Supervisions for Domain Generalization
@@ -217,4 +222,28 @@ Name|Caltech|Labelme|Pascal|Sun|Avg|Conference|Year|Code Url|Paper Url|Title
 |L2A-OT|60.6|50.1|74.8|77.0|65.6|ECCV|2020|[link](https://github.com/mousecpn/L2A-OT)|[link](https://arxiv.org/pdf/2007.03304)|Learning to Generate Novel Domains for Domain Generalization
 |DSON|59.37|44.70|71.84|74.68|62.90|ECCV|2020|-|[link](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123670069.pdf)|Learning to Optimize Domain Specifific Normalization for Domain Generalization
 |RSC|58.42|47.90|71.63|74.54|63.12|ECCV|2020|[link](https://github.com/DeLightCMU/RSC)|[link](https://arxiv.org/pdf/2007.02456)|Self-Challenging Improves Cross-Domain Generalization
+
+### 2.2.4 Rotated-Mnist<sup>1<sup>
+> Use one domain as the target domain.
+
+Name|M<sub>0</sub>|M<sub>15</sub>|M<sub>30</sub>|M<sub>45</sub>|M<sub>60</sub>|M<sub>75</sub>|Avg|Conference|Year|Code Url|Paper Url|Title
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+MMD-AAE|83.70|96.60|95.70|85.20|95.90|81.20|89.72|CVPR|2018|[link](https://github.com/YuqiCui/MMD_AAE)|[link](https://openaccess.thecvf.com/content_cvpr_2018/papers/Li_Domain_Generalization_With_CVPR_2018_paper.pdf)|Domain Generalization with Adversarial Feature Learning
+CrossGrad|86.03|98.92|98.60|98.39|98.68|88.94|94.93|ICLR|2018|[link](https://github.com/gpascualg/CrossGrad)|[link](https://arxiv.org/pdf/1804.10745.pdf)|Generalizing across domains via cross-gradient training.
+MetaReg|85.70±0.31|98.87±0.41|98.32±0.44|98.58±0.28|98.93±0.32|89.44±0.37|94.97|NeurIPS|2018|[link](https://github.com/elliotbeck/MetaReg_PyTorch)|[link](https://dl.acm.org/doi/pdf/10.5555/33326943.3327036)|MetaReg: Towards Domain Generalization using Meta-Regularization
+Reptile|87.78|99.44|98.42|98.80|99.03|87.42|95.15|-|2018|-|[link](https://arxiv.org/pdf/1803.02999.pdf)|On fifirst-order meta-learning algorithms
+Feature-Critic-Flatten|87.04±0.31|99.53±0.27|99.41±0.18|99.52±0.24|99.23±0.16|91.52±0.26|96.04|ICML|2019|[link](https://github.com/liyiying/Feature_Critic)|[link](http://proceedings.mlr.press/v97/li19l/li19l.pdf)|Feature-Critic Networks for Heterogeneous Domain Generalisation 
+DG_via_ER|90.09±1.25|99.24±0.37|99.27±0.16|99.31±0.21|99.45±0.19|90.81±1.35|96.36|NeurIPS|2020|[link](https://github.com/sshan-zhao/DG_via_ER)|[link](https://proceedings.neurips.cc/paper/2020/file/b98249b38337c5088bbc660d8f872d6a-Paper.pdf)|Domain Generalization via Entropy Regularization
+Feature-Critic-MLP|89.23±0.25|99.68±0.24|99.20±0.20|99.24±0.18|99.53±0.23|91.44±0.34|96.39|ICML|2019|[link](https://github.com/liyiying/Feature_Critic)|[link](http://proceedings.mlr.press/v97/li19l/li19l.pdf)|Feature-Critic Networks for Heterogeneous Domain Generalisation 
+
+### 2.2.5 Rotated-Mnist<sup>2<sup>
+> Mix M<sub>0</sub> and M<sub>90</sub> into a domain as the target domain 
+
+Name|M<sub>15</sub>,M<sub>30</sub>,M<sub>45</sub>,M<sub>60</sub>,M<sub>75</sub>->M<sub>0</sub>,M<sub>90</sub>|M<sub>30</sub>,M<sub>45</sub>,M<sub>60</sub>->M<sub>0</sub>,M<sub>60</sub>|M<sub>30</sub>,M<sub>45</sub>->M<sub>0</sub>,M<sub>90</sub>|Avg|Conference|Year|Code Url|Paper Url|Title
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+MASF|93.2±0.2|69.4±1.32|60.8±1.53|74.5|NeurIPS|2020|[link](https://github.com/biomedia-mira/masf)|[link](https://arxiv.org/pdf/1910.13580)|Domain Generalization via  Model-Agnostic Learning of Semantic Features
+ERM|93.9±0.67|77.9±2.44|64.6±3.23|78.7|ICML(workshop)|2020|[link](https://github.com/microsoft/robustdg)|[link](https://arxiv.org/pdf/2006.07500.pdf)|Domain Generalization using Causal Matching
+CSD|94.7±0.2|79.2±2.47|68.7±1.01|80.9|ICML|2020|[link](https://github.com/vihari/CSD)|[link](https://arxiv.org/pdf/2003.12815v2.pdf)|Proceedings of the International Conference of Machine Learning
+MatchDG|96.1±0.34|86.3±1.14|74.3±2.47|85.6|ICML(workshop)|2020|[link](https://github.com/microsoft/robustdg)|[link](https://arxiv.org/pdf/2006.07500.pdf)|Domain Generalization using Causal Matching
+
 
