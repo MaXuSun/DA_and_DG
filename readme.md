@@ -5,15 +5,15 @@
 
 * Welcome to correct mistakes or add new content.
 
-**Click [here](https://maxusun.github.io/DA_and_DG/) to view the full form.**
+**The following only shows the accuracies of each method. Click [here](https://maxusun.github.io/DA_and_DG/) to view the full form.**
 
 # 2.Result
 ## 2.1.DA
 ### 2.1.1.Office-31
 >**Backbone:** *ResNet50*
 
-|Name|A→W|D→W|W→D|A→D|D→A|W→A|Avg|Conference|Year|Code Url|Paper Url|Title|
-|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+|Name|A→W|D→W|W→D|A→D|D→A|W→A|Avg|
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 |JDDA-I|82.1±0.3|95.2±0.1|99.7±0.0|76.1±0.2|56.9±0.0|65.1±0.3|79.2|AAAI|2019|[link](https://github.com/A-bone1/JDDA)|[link](https://ojs.aaai.org/index.php/AAAI/article/view/4202/4080)|Joint Domain Alignment and Discriminative Feature Learning for Unsupervised Deep Domain Adaptation 
 |JDDA-C|82.6±0.4|95.2±0.2|99.7±0.0|79.8±0.1|57.4±0.0|66.7±0.2|80.2|AAAI|2019|[link](https://github.com/A-bone1/JDDA)|[link](https://ojs.aaai.org/index.php/AAAI/article/view/4202/4080)|Joint Domain Alignment and Discriminative Feature Learning for Unsupervised Deep Domain Adaptation 
 |PFAN(AlexNet)|83.0±0.3|99.0±0.2|99.9±0.1|76.3±0.3|63.3±0.3|60.8±0.5|80.4|CVPR|2019|[link](https://github.com/Xiewp/PFAN)|[link](http://openaccess.thecvf.com/content_CVPR_2019/papers/Chen_Progressive_Feature_Alignment_for_Unsupervised_Domain_Adaptation_CVPR_2019_paper.pdf)|Progressive Feature Alignment for Unsupervised Domain Adaptation 
@@ -57,9 +57,9 @@ GVB-GD|94.8±0.5|98.7±0.3|100.0±0.0|95.0±0.4|73.4±0.3|73.7±0.3|89.3|CVPR|20
 ### 2.1.2.Office-Home
 >**Backbone:** *ResNet50*
 
-|Name|Ar→Cl|Ar→Pr|Ar→Rw|Cl→Ar|Cl→Pr|Cl→Rw|Pr→Ar|Pr→Cl|Pr→Rw|Rw→Ar|Rw→Cl|Rw→Pr|Avg|Conference|Year|Code Url|Paper Url|Title|
-|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-|GCAN|36.43|47.25|61.08|37.90|58.25|57.00|35.77|42.66|64.47|50.08|49.12|72.53|51.05|CVPR|2019|[link](https://github.com/Mid-Push/Moving-Semantic-Transfer-Network)|[link](https://openaccess.thecvf.com/content_CVPR_2019/papers/Ma_GCAN_Graph_Convolutional_Adversarial_Network_for_Unsupervised_Domain_Adaptation_CVPR_2019_paper.pdf)||GCAN: Graph Convolutional Adversarial Network for Unsupervised Domain Adaptation
+|Name|Ar→Cl|Ar→Pr|Ar→Rw|Cl→Ar|Cl→Pr|Cl→Rw|Pr→Ar|Pr→Cl|Pr→Rw|Rw→Ar|Rw→Cl|Rw→Pr|Avg|
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+|GCAN|36.43|47.25|61.08|37.90|58.25|57.00|35.77|42.66|64.47|50.08|49.12|72.53|51.05|CVPR|2019|[link](https://github.com/Mid-Push/Moving-Semantic-Transfer-Network)|[link](https://openaccess.thecvf.com/content_CVPR_2019/papers/Ma_GCAN_Graph_Convolutional_Adversarial_Network_for_Unsupervised_Domain_Adaptation_CVPR_2019_paper.pdf)|GCAN: Graph Convolutional Adversarial Network for Unsupervised Domain Adaptation
 |Method2|40.3|51.6|61.5|37.9|58.0|58.6|33.6|45.9|61.8|50.1|50.9|71.7|51.8|IJCAI|2019|-|[link](https://arxiv.org/pdf/1906.09693)|Bayesian Uncertainty Matching for Unsupervised Domain Adaptation
 |LFP|41.53|53.66|64.90|41.53|54.57|57.66|38.87|40.08|65.97|55.13|47.18|76.02|53.10|AAAI|2019|-|[link](https://ojs.aaai.org/index.php/AAAI/article/view/4479/4357)|Exploiting Local Feature Patterns for Unsupervised Domain Adaptation 
 |DPDA|39.2|54.4|61.4|50.3|57.8|59.9|53.5|40.7|67.9|59.4|43.8|68.7|54.8|IJCAI|2019|-|[link](https://pdfs.semanticscholar.org/77d7/a7b36abc7cd3cf0ef492183469abb0342cc1.pdf)|Differentially Private Optimal Transport: Application to Domain Adaptation 
@@ -93,8 +93,8 @@ GVB-GD|94.8±0.5|98.7±0.3|100.0±0.0|95.0±0.4|73.4±0.3|73.7±0.3|89.3|CVPR|20
 ### 2.1.3.ImageCLEF
 >**Backbone:** *ResNet50*
 
-|Name|I→P|P→I|I→C|C→I|C→P|P→C|Avg|Conference|Year|Code Url|Paper Url|Title|
-|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+|Name|I→P|P→I|I→C|C→I|C→P|P→C|Avg|
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 |GCAN|68.2±0.5|84.1±0.2|92.2±0.1|82.5±0.1|67.2±0.2|91.3±0.1|80.9|CVPR|2019|[link](https://github.com/Mid-Push/Moving-Semantic-Transfer-Network)|[link](https://openaccess.thecvf.com/content_CVPR_2019/papers/Ma_GCAN_Graph_Convolutional_Adversarial_Network_for_Unsupervised_Domain_Adaptation_CVPR_2019_paper.pdf)|GCAN: Graph Convolutional Adversarial Network for Unsupervised Domain Adaptation
 |PFAN|68.5±0.5|84.4±0.4|92.2±0.6|82.3±0.4|66.3±0.3|91.7±0.2|80.9|CVPR|2019|[link](https://github.com/Xiewp/PFAN)|[link](http://openaccess.thecvf.com/content_CVPR_2019/papers/Chen_Progressive_Feature_Alignment_for_Unsupervised_Domain_Adaptation_CVPR_2019_paper.pdf)|Progressive Feature Alignment for Unsupervised Domain Adaptation 
 |rGevGrad+CAT|77.2±0.2|91.0±0.3|95.5±0.3|91.3±0.3|75.3±0.6|93.6±0.5|87.3|ICCV|2019|[link](https://github.com/thudzj/CAT)|[link](http://openaccess.thecvf.com/content_ICCV_2019/papers/Deng_Cluster_Alignment_With_a_Teacher_for_Unsupervised_Domain_Adaptation_ICCV_2019_paper.pdf)|Cluster Alignment with a Teacher for Unsupervised Domain Adaptation
@@ -116,8 +116,8 @@ GVB-GD|94.8±0.5|98.7±0.3|100.0±0.0|95.0±0.4|73.4±0.3|73.7±0.3|89.3|CVPR|20
 ### 2.1.4.VisDA-2007(VisDA-C)
 >**Backbone:** *ResNet101*
 
-|Name|plane|bcycl|bus|car|house|knife|mcycl|person|plant|sktbrd|train|truck|Avg|Congerence|Year|Code Url|Paper Url|Title|
-|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+|Name|plane|bcycl|bus|car|house|knife|mcycl|person|plant|sktbrd|train|truck|Avg|
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 |DPDA|88.5|66.2|75.8|59.1|86.5|70.4|69.9|71.6|75.9|49.3|86.8|39.5|68.8|IJCAI|2019|-|[link](https://pdfs.semanticscholar.org/77d7/a7b36abc7cd3cf0ef492183469abb0342cc1.pdf)|Differentially Private Optimal Transport: Application to Domain Adaptation 
 |BSP+DANN|92.2|72.5|83.8|47.5|87.0|54.0|86.8|72.4|80.6|66.9|84.5|37.1|72.1|ICML|2019|[link](https://github.com/thuml/Batch-Spectral-Penalization)|[link](http://proceedings.mlr.press/v97/chen19i/chen19i.pdf)|Transferability vs. Discriminability: Batch Spectral Penalization for Adversarial Domain Adaptation
 |DEV|81.8|53.5|83.0|71.6|89.2|72.0|89.4|75.7|97.0|55.5|71.2|29.2|72.4|ICML|2019|[link](https://github.com/thuml/Deep-Embedded-Validation)|[link](http://proceedings.mlr.press/v97/you19a/you19a.pdf)|Towards Accurate Model Selection in Deep Unsupervised Domain Adaptation 
@@ -141,8 +141,8 @@ BCDM|95.1|87.6|81.2|73.2|92.7|95.4|86.9|82.5|95.1|84.8|88.1|39.5|83.4|AAAI|2020|
 ### 2.1.5.Digit(MNIST,USPS,SVHN)
 >**Backbone:** *CNN*
 
-|Name|S→M|M→U|U→M|Avg|Conference|Year|Code Url|Paper Url|Title|
-|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+|Name|S→M|M→U|U→M|Avg|
+|:--:|:--:|:--:|:--:|:--:|
 |TPN|93.0|92.1|94.1|93.1|CVPR|2019|[link](https://github.com/decisionforce/TPN)|[link](https://openaccess.thecvf.com/content_CVPR_2019/papers/Pan_Transferrable_Prototypical_Networks_for_Unsupervised_Domain_Adaptation_CVPR_2019_paper.pdf)|Transferrable Prototypical Networks for Unsupervised Domain Adaptation 
 |BSP+ADDA|91.4|93.3|94.5|93.1|ICML|2019|[link](https://github.com/thuml/Batch-Spectral-Penalization)|[link](http://proceedings.mlr.press/v97/chen19i/chen19i.pdf)|Transferability vs. Discriminability: Batch Spectral Penalization for Adversarial Domain Adaptation
 |BSP+DANN|89.4|94.5|97.7|93.9|ICML|2019|[link](https://github.com/thuml/Batch-Spectral-Penalization)|[link](http://proceedings.mlr.press/v97/chen19i/chen19i.pdf)|Transferability vs. Discriminability: Batch Spectral Penalization for Adversarial Domain Adaptation
@@ -168,8 +168,8 @@ BCDM|95.1|87.6|81.2|73.2|92.7|95.4|86.9|82.5|95.1|84.8|88.1|39.5|83.4|AAAI|2020|
 
 ## 2.2.DG
 ### 2.2.1.PACS
-|Name|Art Painting|Cartoon|Photo|Sketch|Avg|Conference|Year|Code Url|Paper Url|Title|
-|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+|Name|Art Painting|Cartoon|Photo|Sketch|Avg|
+|:--:|:--:|:--:|:--:|:--:|:--:|
 |Epi-FCR(AlexNet)|64.7|72.3|86.1|65.0|72.0|ICCV|2019|[link](https://github.com/HAHA-DL/Episodic-DG)|[link](https://openaccess.thecvf.com/content_ICCV_2019/papers/Li_Episodic_Training_for_Domain_Generalization_ICCV_2019_paper.pdf)|Episodic Training for Domain Generalization
 |Feature-Critic(AlexNet)|64.89|71.72|89.94|61.85|72.1|ICML|2019|[link](https://github.com/liyiying/Feature_Critic)|[link](http://proceedings.mlr.press/v97/li19l/li19l.pdf)|Feature-Critic Networks for Heterogeneous Domain Generalisation 
 |DMG(AlexNet)|64.65|69.88|87.31|71.42|73.32|ECCV|2020|[link](https://github.com/prithv1/DMG)|[link](https://arxiv.org/pdf/2008.12839)|Learning to Balance Specifificity and Invariance for In and Out of Domain Generalization
@@ -202,8 +202,8 @@ S-MLDG(ResNet18)|80.5|77.8|94.8|72.8|81.5|CVPR|2021|-|[link](https://arxiv.org/p
 ### 2.2.2.VLCS
 >**Backbone:** *AlexNet*
 
-Name|Caltech|Labelme|Pascal|Sun|Avg|Conference|Year|Code Url|Paper Url|Title
-|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+Name|Caltech|Labelme|Pascal|Sun|Avg|
+|:--:|:--:|:--:|:--:|:--:|:--:|
 FFO-S-MLDG|68.1|63.1|94.8|65.2|72.8|CVPR|2021|-|[link](https://arxiv.org/pdf/2004.01377v1.pdf)|Sequential Learning for Domain Generalization
 |Epi-FCR|94.1|64.3|67.1|65.9|72.9|ICCV|2019|[link](https://github.com/HAHA-DL/Episodic-DG)|[link](https://openaccess.thecvf.com/content_ICCV_2019/papers/Li_Episodic_Training_for_Domain_Generalization_ICCV_2020_paper.pdf)|Episodic Training for Domain Generalization
 |JiGen|96.93|60.90|70.62|64.30|73.19|CVPR|2019|[link](https://github.com/fmcarlucci/JigenDG)|[link](https://openaccess.thecvf.com/content_CVPR_2019/papers/Carlucci_Domain_Generalization_by_Solving_Jigsaw_Puzzles_CVPR_2020_paper.pdf)|Domain Generalization by Solving Jigsaw Puzzles
@@ -216,8 +216,8 @@ S-MLDG|68.7|64.8|96.4|64.0|73.5|CVPR|2021|-|[link](https://arxiv.org/pdf/2004.01
 ### 2.2.3.Office-Home
 >**Backbone:** *ResNet18*
 
-|Name|Art|Clipart|Product|Real World|Avg|Conference|Year|Code Url|Paper Url|Title|
-|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+|Name|Art|Clipart|Product|Real World|Avg|
+|:--:|:--:|:--:|:--:|:--:|:--:|
 |JiGen|53.04|47.51|71.47|72.79|61.20|CVPR|2019|[link](https://github.com/fmcarlucci/JigenDG)|[link](https://openaccess.thecvf.com/content_CVPR_2019/papers/Carlucci_Domain_Generalization_by_Solving_Jigsaw_Puzzles_CVPR_2020_paper.pdf)|Domain Generalization by Solving Jigsaw Puzzles
 |L2A-OT|60.6|50.1|74.8|77.0|65.6|ECCV|2020|[link](https://github.com/mousecpn/L2A-OT)|[link](https://arxiv.org/pdf/2007.03304)|Learning to Generate Novel Domains for Domain Generalization
 |DSON|59.37|44.70|71.84|74.68|62.90|ECCV|2020|-|[link](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123670069.pdf)|Learning to Optimize Domain Specifific Normalization for Domain Generalization
@@ -226,8 +226,8 @@ S-MLDG|68.7|64.8|96.4|64.0|73.5|CVPR|2021|-|[link](https://arxiv.org/pdf/2004.01
 ### 2.2.4 Rotated-Mnist<sup>1<sup>
 > Use one domain as the target domain.
 
-Name|M<sub>0</sub>|M<sub>15</sub>|M<sub>30</sub>|M<sub>45</sub>|M<sub>60</sub>|M<sub>75</sub>|Avg|Conference|Year|Code Url|Paper Url|Title
-|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+Name|M<sub>0</sub>|M<sub>15</sub>|M<sub>30</sub>|M<sub>45</sub>|M<sub>60</sub>|M<sub>75</sub>|Avg|
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 MMD-AAE|83.70|96.60|95.70|85.20|95.90|81.20|89.72|CVPR|2018|[link](https://github.com/YuqiCui/MMD_AAE)|[link](https://openaccess.thecvf.com/content_cvpr_2018/papers/Li_Domain_Generalization_With_CVPR_2018_paper.pdf)|Domain Generalization with Adversarial Feature Learning
 CrossGrad|86.03|98.92|98.60|98.39|98.68|88.94|94.93|ICLR|2018|[link](https://github.com/gpascualg/CrossGrad)|[link](https://arxiv.org/pdf/1804.10745.pdf)|Generalizing across domains via cross-gradient training.
 MetaReg|85.70±0.31|98.87±0.41|98.32±0.44|98.58±0.28|98.93±0.32|89.44±0.37|94.97|NeurIPS|2018|[link](https://github.com/elliotbeck/MetaReg_PyTorch)|[link](https://dl.acm.org/doi/pdf/10.5555/33326943.3327036)|MetaReg: Towards Domain Generalization using Meta-Regularization
@@ -239,8 +239,8 @@ Feature-Critic-MLP|89.23±0.25|99.68±0.24|99.20±0.20|99.24±0.18|99.53±0.23|9
 ### 2.2.5 Rotated-Mnist<sup>2<sup>
 > Mix M<sub>0</sub> and M<sub>90</sub> into a domain as the target domain 
 
-Name|M<sub>15</sub>,M<sub>30</sub>,M<sub>45</sub>,M<sub>60</sub>,M<sub>75</sub>->M<sub>0</sub>,M<sub>90</sub>|M<sub>30</sub>,M<sub>45</sub>,M<sub>60</sub>->M<sub>0</sub>,M<sub>60</sub>|M<sub>30</sub>,M<sub>45</sub>->M<sub>0</sub>,M<sub>90</sub>|Avg|Conference|Year|Code Url|Paper Url|Title
-|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+Name|M<sub>15</sub>,M<sub>30</sub>,M<sub>45</sub>,M<sub>60</sub>,M<sub>75</sub>->M<sub>0</sub>,M<sub>90</sub>|M<sub>30</sub>,M<sub>45</sub>,M<sub>60</sub>->M<sub>0</sub>,M<sub>60</sub>|M<sub>30</sub>,M<sub>45</sub>->M<sub>0</sub>,M<sub>90</sub>|Avg|
+|:--:|:--:|:--:|:--:|:--:|
 MASF|93.2±0.2|69.4±1.32|60.8±1.53|74.5|NeurIPS|2020|[link](https://github.com/biomedia-mira/masf)|[link](https://arxiv.org/pdf/1910.13580)|Domain Generalization via  Model-Agnostic Learning of Semantic Features
 ERM|93.9±0.67|77.9±2.44|64.6±3.23|78.7|ICML(workshop)|2020|[link](https://github.com/microsoft/robustdg)|[link](https://arxiv.org/pdf/2006.07500.pdf)|Domain Generalization using Causal Matching
 CSD|94.7±0.2|79.2±2.47|68.7±1.01|80.9|ICML|2020|[link](https://github.com/vihari/CSD)|[link](https://arxiv.org/pdf/2003.12815v2.pdf)|Proceedings of the International Conference of Machine Learning
