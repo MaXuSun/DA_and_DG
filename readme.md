@@ -614,13 +614,13 @@ ERM|ResNet50|65.24|22.15|50.03|15.68|59.63|49.02|43.63|ICLR|2021|-|[link](https:
 
 #### **LT-ImageNet**
 Name|Backbone|Avg|
-|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+|:--:|:--:|:--:|
 ERM|ResNet50|53.7|CVPR|2021|[link](https://github.com/abhimanyudubey/GeoYFCC)|[link](https://openaccess.thecvf.com/content/CVPR2021/papers/Dubey_Adaptive_Methods_for_Real-World_Domain_Generalization_CVPR_2021_paper.pdf)|Adaptive Methods for Real-World Domain Generalization
 DA-ERM|ResNet50|56.1|CVPR|2021|[link](https://github.com/abhimanyudubey/GeoYFCC)|[link](https://openaccess.thecvf.com/content/CVPR2021/papers/Dubey_Adaptive_Methods_for_Real-World_Domain_Generalization_CVPR_2021_paper.pdf)|Adaptive Methods for Real-World Domain Generalization
 
 #### **Geo-YFCC**
 Name|Backbone|Avg|
-|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+|:--:|:--:|:--:|
 ERM|ResNet50|22.4|CVPR|2021|[link](https://github.com/abhimanyudubey/GeoYFCC)|[link](https://openaccess.thecvf.com/content/CVPR2021/papers/Dubey_Adaptive_Methods_for_Real-World_Domain_Generalization_CVPR_2021_paper.pdf)|Adaptive Methods for Real-World Domain Generalization
 DA-ERM|ResNet50|23.4|CVPR|2021|[link](https://github.com/abhimanyudubey/GeoYFCC)|[link](https://openaccess.thecvf.com/content/CVPR2021/papers/Dubey_Adaptive_Methods_for_Real-World_Domain_Generalization_CVPR_2021_paper.pdf)|Adaptive Methods for Real-World Domain Generalization
 
@@ -635,7 +635,7 @@ PDEN|-|82.2|85.26|62.21|69.39|74.77|CVPR|2021|[link](https://github.com/lileicv/
 
 #### **CIFAR10-C**
 Name|BackBone|Level1|Level2|Level3|Level4|Level5|Avg|
-|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 ADA+ASR|WRN|91.5±0.2|89.3±0.6|86.9±0.5|83.7±0.7|78.4±0.8|86.0|CVPR|2021|-|[link](https://openaccess.thecvf.com/content/CVPR2021/papers/Fan_Adversarially_Adaptive_Normalization_for_Single_Domain_Generalization_CVPR_2021_paper.pdf)|Adversarially Adaptive Normalization for Single Domain Generalization
 PDEN|STN|90.62|88.91|87.03|83.71|77.47|85.55|CVPR|2021|[link](https://github.com/lileicv/PDEN)|[link](https://openaccess.thecvf.com/content/CVPR2021/papers/Li_Progressive_Domain_Expansion_Network_for_Single_Domain_Generalization_CVPR_2021_paper.pdf)|Progressive Domain Expansion Network for Single Domain Generalization
 
