@@ -635,7 +635,7 @@ PDEN|-|82.2|85.26|62.21|69.39|74.77|CVPR|2021|[link](https://github.com/lileicv/
 
 #### **CIFAR10-C**
 Name|BackBone|Level1|Level2|Level3|Level4|Level5|Avg|
-|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 ADA+ASR|WRN|91.5±0.2|89.3±0.6|86.9±0.5|83.7±0.7|78.4±0.8|86.0|CVPR|2021|-|[link](https://openaccess.thecvf.com/content/CVPR2021/papers/Fan_Adversarially_Adaptive_Normalization_for_Single_Domain_Generalization_CVPR_2021_paper.pdf)|Adversarially Adaptive Normalization for Single Domain Generalization
 PDEN|STN|90.62|88.91|87.03|83.71|77.47|85.55|CVPR|2021|[link](https://github.com/lileicv/PDEN)|[link](https://openaccess.thecvf.com/content/CVPR2021/papers/Li_Progressive_Domain_Expansion_Network_for_Single_Domain_Generalization_CVPR_2021_paper.pdf)|Progressive Domain Expansion Network for Single Domain Generalization
 
