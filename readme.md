@@ -45,7 +45,7 @@ DWL|89.2|99.2|100.0|91.2|73.1|69.8|87.1|CVPR|2021|[link](https://github.com/NiXi
 |DADA|92.3±0.1|99.2±0.1|100.0±0.0|93.9±0.2|74.4±0.1|74.2±0.1|89.0|AAAI|2020|[link](https://github.com/huitangtang/DADA-AAAI2020)|[link](https://ojs.aaai.org/index.php/AAAI/article/download/6054/5910)|Discriminative Adversarial Domain Adaptation 
 |BCDM|95.4±0.3|98.6±0.1|100.0±0.0|93.8±0.3|73.1±0.3|73.0±0.2|89.0|AAAI|2021|[link](https://github.com/BIT-DA/BCDM)|[link](https://arxiv.org/pdf/2012.06995)|Bi-Classififier Determinacy Maximization for Unsupervised Domain Adaptation
 |Method1|95.2|98.6|100.0|91.7|74.5|73.7|89.0|IJCAI|2020|-|[link](https://arxiv.org/pdf/2006.00223)|Self-adaptive Re-weighted Adversarial Domain Adaptation 
-GVB+MetaAlign|93.0±0.5|94.5±0.3|73.6±.0|100.0±.0|75.0±0.3|98.6±.0|89.2|CVPR|2021|-|[link](https://openaccess.thecvf.com/content/CVPR2021/papers/Wei_MetaAlign_Coordinating_Domain_Alignment_and_Classification_for_Unsupervised_Domain_Adaptation_CVPR_2021_paper.pdf)|MetaAlign: Coordinating Domain Alignment and Classifification for Unsupervised Domain Adaptation 
+GVB+MetaAlign|93.0±0.5|94.5±0.3|73.6±0.0|100.0±0.0|75.0±0.3|98.6±.0|89.2|CVPR|2021|-|[link](https://openaccess.thecvf.com/content/CVPR2021/papers/Wei_MetaAlign_Coordinating_Domain_Alignment_and_Classification_for_Unsupervised_Domain_Adaptation_CVPR_2021_paper.pdf)|MetaAlign: Coordinating Domain Alignment and Classifification for Unsupervised Domain Adaptation 
 GVB-GD|94.8±0.5|98.7±0.3|100.0±0.0|95.0±0.4|73.4±0.3|73.7±0.3|89.3|CVPR|2020|[link](https://github.com/cuishuhao/GVB)|[link](http://openaccess.thecvf.com/content_CVPR_2020/papers/Cui_Gradually_Vanishing_Bridge_for_Adversarial_Domain_Adaptation_CVPR_2020_paper.pdf)|Gradually Vanishing Bridge for Adversarial Domain Adaptation
 ILA-DA(with CDAN)|95.72|99.25|100.00|93.37|72.10|75.40|89.30|CVPR|2021|[link](https://github.com/astuti/ILA-DA)|[link](https://openaccess.thecvf.com/content/CVPR2021/papers/Sharma_Instance_Level_Affinity-Based_Transfer_for_Unsupervised_Domain_Adaptation_CVPR_2021_paper.pdf)|Instance Level Affifinity-Based Transfer for Unsupervised Domain Adaptation
 |MCC|95.5±0.2|98.6±0.1|100.0±0.0|94.4±0.3|72.9±0.2|74.9±0.3|89.4|ECCV|2020|[link](https://github.com/thuml/Versatile-Domain-Adaptation)|[link](https://arxiv.org/pdf/1912.03699)|Minimum Class Confusion for Versatile Domain Adaptation
@@ -59,7 +59,7 @@ ILA-DA(with CDAN)|95.72|99.25|100.00|93.37|72.10|75.40|89.30|CVPR|2021|[link](ht
 |SRDC|95.7±0.2|99.2±0.1|100.0±0.0|95.8±0.2|76.7±0.3|77.1±0.1|90.8|CVPR|2020|[link](https://github.com/huitangtang/SRDC-CVPR2020)|[link](https://openaccess.thecvf.com/content_CVPR_2020/papers/Tang_Unsupervised_Domain_Adaptation_via_Structurally_Regularized_Deep_Clustering_CVPR_2020_paper.pdf)|Unsupervised Domain Adaptation via Structurally Regularized Deep Clustering
 |RSDA-MSTN|96.1±0.2|99.3±0.2|100.0±0.0|95.8±0.3|77.4±0.8|78.9±0.3|91.1|CVPR|2020|[link](https://github.com/XJTU-XGU/RSDA)|[link](http://openaccess.thecvf.com/content_CVPR_2020/papers/Gu_Spherical_Space_Domain_Adaptation_With_Robust_Pseudo-Label_Loss_CVPR_2020_paper.pdf)|Spherical Space Domain Adaptation with Robust Pseudo-label Loss 
 FixBi|96.1±0.2|99.3±0.2|100.0±0.0|95.0±0.4|78.7±0.5|79.4±0.3|91.4|CVPR|2021|[link](https://github.com/NaJaeMin92/FixBi)|[link](https://openaccess.thecvf.com/content/CVPR2021/papers/Na_FixBi_Bridging_Domain_Spaces_for_Unsupervised_Domain_Adaptation_CVPR_2021_paper.pdf)|FixBi: Bridging Domain Spaces for Unsupervised Domain Adaptation
-LAMDA|95.2|98.5|100|96|87.3|84.4|93.0|ICML|2021|-|[link](http://proceedings.mlr.press/v139/le21a/le21a.pdf)|LAMDA: Label Matching Deep Domain Adaptation 
+LAMDA|95.2|98.5|100.0|96.0|87.3|84.4|93.0|ICML|2021|-|[link](http://proceedings.mlr.press/v139/le21a/le21a.pdf)|LAMDA: Label Matching Deep Domain Adaptation 
 
 #### **Office-Home**
 >Type: **UDA**
@@ -99,7 +99,7 @@ CKB+MMD|54.2|74.1|77.5|64.6|72.2|71.0|64.5|53.4|78.7|72.6|58.4|82.8|68.7|CVPR|20
 |SRDC|52.3|76.3|81.0|69.5|76.2|78.0|68.7|53.8|81.7|76.3|57.1|85.0|71.3|CVPR|2020|[link](https://github.com/huitangtang/SRDC-CVPR2020)|[link](https://openaccess.thecvf.com/content_CVPR_2020/papers/Tang_Unsupervised_Domain_Adaptation_via_Structurally_Regularized_Deep_Clustering_CVPR_2020_paper.pdf)|Unsupervised Domain Adaptation via Structurally Regularized Deep Clustering
 GVB+MetaAlign|59.3|76.0|80.2|65.7|74.7|75.1|65.7|56.5|81.6|74.1|61.1|85.2|71.3|CVPR|2021|-|[link](https://openaccess.thecvf.com/content/CVPR2021/papers/Wei_MetaAlign_Coordinating_Domain_Alignment_and_Classification_for_Unsupervised_Domain_Adaptation_CVPR_2021_paper.pdf)|MetaAlign: Coordinating Domain Alignment and Classifification for Unsupervised Domain Adaptation 
 |SHOT|57.1|78.1|81.5|68.0|78.2|78.1|67.4|54.9|82.2|73.3|58.8|84.3|71.8|ICML|2020|[link](https://github.com/tim-learn/SHOT)|[link](http://proceedings.mlr.press/v119/liang20a/liang20a.pdf)|Do We Really Need to Access the Source Data? Source Hypothesis Transfer for Unsupervised Domain Adaptation
-LAMDA|57.2|78.4|82.6|66.1|80.2|81.2|65.6|55.1|82.8|71.6|59.2|83.9|72|ICML|2021|-|[link](http://proceedings.mlr.press/v139/le21a/le21a.pdf)|LAMDA: Label Matching Deep Domain Adaptation 
+LAMDA|57.2|78.4|82.6|66.1|80.2|81.2|65.6|55.1|82.8|71.6|59.2|83.9|72.0|ICML|2021|-|[link](http://proceedings.mlr.press/v139/le21a/le21a.pdf)|LAMDA: Label Matching Deep Domain Adaptation 
 FixBi|58.1|77.3|80.4|67.7|79.5|78.1|65.8|57.9|81.7|76.4|62.9|86.7|72.7|CVPR|2021|[link](https://github.com/NaJaeMin92/FixBi)|[link](https://openaccess.thecvf.com/content/CVPR2021/papers/Na_FixBi_Bridging_Domain_Spaces_for_Unsupervised_Domain_Adaptation_CVPR_2021_paper.pdf)|FixBi: Bridging Domain Spaces for Unsupervised Domain Adaptation
 
 #### **VisDA-C(VisDA-20)**
@@ -117,7 +117,7 @@ FixBi|58.1|77.3|80.4|67.7|79.5|78.1|65.8|57.9|81.7|76.4|62.9|86.7|72.7|CVPR|2021
 |BSP+CDAN|92.4|61.0|81.0|57.5|89.0|80.6|90.1|77.0|84.2|77.9|82.1|38.4|75.9|ICML|2019|[link](https://github.com/thuml/Batch-Spectral-Penalization)|[link](http://proceedings.mlr.press/v97/chen19i/chen19i.pdf)|Transferability vs. Discriminability: Batch Spectral Penalization for Adversarial Domain Adaptation
 |SAFN|93.6±0.2|61.3±0.4|84.1±0.5|70.6±2.2|94.1±0.5|79.0±4.1|91.8±0.5|79.6±1.3|89.9±0.7|55.6±3.4|89.0±0.3|24.4±2.9|76.1|ICCV|2019|[link](https://github.com/jihanyang/AFN)|[link](https://openaccess.thecvf.com/content_ICCV_2019/papers/Xu_Larger_Norm_More_Transferable_An_Adaptive_Feature_Norm_Approach_for_ICCV_2019_paper.pdf)|Larger Norm More Transferable An Adaptive Feature Norm Approach for Unsupervised Domain Adaptation
 |ALDA(ResNet50)|87.0|61.3|78.7|67.9|83.7|89.4|89.5|71.0|95.4|71.9|89.6|33.1|76.5|AAAI|2020|[link](https://github.com/ZJULearning/ALDA)|[link](https://ojs.aaai.org/index.php/AAAI/article/download/5757/5613)|Adversarial-Learned Loss for Domain Adaptation
-DWL|90.7|80.2|86.1|67.6|92.4|81.5|86.8|78|90.6|57.1|85.6|28.7|77.1|CVPR|2021|[link](https://github.com/NiXiao-cqu/TransferLearning-dwl-cvpr2021)|[link](https://openaccess.thecvf.com/content/CVPR2021/papers/Xiao_Dynamic_Weighted_Learning_for_Unsupervised_Domain_Adaptation_CVPR_2021_paper.pdf)|Dynamic Weighted Learning for Unsupervised Domain Adaptation
+DWL|90.7|80.2|86.1|67.6|92.4|81.5|86.8|78.0|90.6|57.1|85.6|28.7|77.1|CVPR|2021|[link](https://github.com/NiXiao-cqu/TransferLearning-dwl-cvpr2021)|[link](https://openaccess.thecvf.com/content/CVPR2021/papers/Xiao_Dynamic_Weighted_Learning_for_Unsupervised_Domain_Adaptation_CVPR_2021_paper.pdf)|Dynamic Weighted Learning for Unsupervised Domain Adaptation
 |ALDA|93.8|74.1|82.4|69.4|90.6|87.2|89.0|67.6|93.4|76.1|87.7|22.2|77.8|AAAI|2020|[link](https://github.com/ZJULearning/ALDA)|[link](https://ojs.aaai.org/index.php/AAAI/article/download/5757/5613)|Adversarial-Learned Loss for Domain Adaptation
 |MCC|88.1|80.3|80.5|71.5|90.1|93.2|85.0|71.6|89.4|73.8|85.0|36.9|78.8|ECCV|2020|[link](https://github.com/thuml/Versatile-Domain-Adaptation)|[link](https://arxiv.org/pdf/1912.03699)|Minimum Class Confusion for Versatile Domain Adaptation
 |DRMEA|92.1|75.0|78.9|75.5|91.2|81.9|89.0|77.2|93.3|77.4|84.8|35.1|79.3|AAAI|2020|[link](https://github.com/LavieLuo/DRMEA)|[link](https://ojs.aaai.org/index.php/AAAI/article/download/5943/5799)|Unsupervised Domain Adaptation via Discriminative Manifold Embedding and Alignment
@@ -155,7 +155,7 @@ CKB+MMD|80.7±0.2|92.2±0.1|96.5±0.1|92.2±0.2|79.9±0.2|96.7±0.1|89.7|CVPR|20
 |RSDA-DANN|79.2±0.4|93.0±0.2|98.3±0.4|93.6±0.4|78.5±0.3|98.2±0.2|90.1|CVPR|2020|[link](https://github.com/XJTU-XGU/RSDA)|[link](http://openaccess.thecvf.com/content_CVPR_2020/papers/Gu_Spherical_Space_Domain_Adaptation_With_Robust_Pseudo-Label_Loss_CVPR_2020_paper.pdf)|Spherical Space Domain Adaptation with Robust Pseudo-label Loss 
 |RSDA-MSTN|79.8±0.2|94.5±0.5|98.0±0.4|94.2±0.4|79.2±0.3|97.3±0.3|90.5|CVPR|2020|[link](https://github.com/XJTU-XGU/RSDA)|[link](http://openaccess.thecvf.com/content_CVPR_2020/papers/Gu_Spherical_Space_Domain_Adaptation_With_Robust_Pseudo-Label_Loss_CVPR_2020_paper.pdf)|Spherical Space Domain Adaptation with Robust Pseudo-label Loss 
 DWL|82.3|94.8|98.1|92.8|77.9|97.2|90.5|CVPR|2021|[link](https://github.com/NiXiao-cqu/TransferLearning-dwl-cvpr2021)|[link](https://openaccess.thecvf.com/content/CVPR2021/papers/Xiao_Dynamic_Weighted_Learning_for_Unsupervised_Domain_Adaptation_CVPR_2021_paper.pdf)|Dynamic Weighted Learning for Unsupervised Domain Adaptation
-LAMDA|80.7|95|96.7|95|80.7|95.8|90.6|ICML|2021|-|[link](http://proceedings.mlr.press/v139/le21a/le21a.pdf)|LAMDA: Label Matching Deep Domain Adaptation 
+LAMDA|80.7|95.0|96.7|95.0|80.7|95.8|90.6|ICML|2021|-|[link](http://proceedings.mlr.press/v139/le21a/le21a.pdf)|LAMDA: Label Matching Deep Domain Adaptation 
 |SRDC|80.8±0.3|94.7±0.2|97.8±0.2|94.1±0.2|80.0±0.3|97.7±0.1|90.9|CVPR|2020|[link](https://github.com/huitangtang/SRDC-CVPR2020)|[link](https://openaccess.thecvf.com/content_CVPR_2020/papers/Tang_Unsupervised_Domain_Adaptation_via_Structurally_Regularized_Deep_Clustering_CVPR_2020_paper.pdf)|Unsupervised Domain Adaptation via Structurally Regularized Deep Clustering
 |E-MixNet|80.5±0.4|96.0±0.1|97.7±0.3|95.2±0.4|79.9±0.2|97.0±0.3|91.0|AAAI|2021|[link](https://github.com/zhonglii/E-MixNet)|[link](https://arxiv.org/pdf/2101.01104)|How does the Combined Risk Affect the Performance of Unsupervised Domain Adaptation Approaches? 
 
@@ -172,7 +172,7 @@ SupSrc+TFA|59.37±0.58|75.18±0.76|ICLR|2018|[link](https://github.com/Britefury
 MT+CT+TFA |69.86±1.97|80.09±0.31|ICLR|2018|[link](https://github.com/Britefury/self-ensemble-visual-domain-adapt)|[link](https://arxiv.org/pdf/1706.05208.pdf).)|Self-ensembling for Visual Domain Adaptation
 DWT |71.18±0.56|79.75±0.25 |CVPR|2019|[link](https://github.com/roysubhankar/dwt-domain-adaptation)|[link](https://openaccess.thecvf.com/content_CVPR_2019/papers/Roy_Unsupervised_Domain_Adaptation_Using_Feature-Whitening_and_Consensus_Loss_CVPR_2019_paper.pdf)|Unsupervised Domain Adaptation using Feature-Whitening and Consensus Loss
 SupTgt+TFA|90.44±0.38|70.03±1.13|ICLR|2018|[link](https://github.com/Britefury/self-ensemble-visual-domain-adapt)|[link](https://arxiv.org/pdf/1706.05208.pdf).)|Self-ensembling for Visual Domain Adaptation
-LAMDA|78|71.6|-|[link](http://proceedings.mlr.press/v139/le21a/le21a.pdf)|LAMDA: Label Matching Deep Domain Adaptation 
+LAMDA|78.0|71.6|-|[link](http://proceedings.mlr.press/v139/le21a/le21a.pdf)|LAMDA: Label Matching Deep Domain Adaptation 
 
 
 
@@ -184,12 +184,12 @@ Name|BackBone|A->C|A->D|A->W|C->A|C->D|C->W|D->A|D->C|D->W|W->A|W->C|W->D|Avg|
 MCS|VGG-FC7|86.3|72.8|86.6|92.8|73|89.3|84.6|76.5|95.5|90.4|85.6|88.9|85.2|CVPR|2019|-|[link](http://openaccess.thecvf.com/content_CVPR_2019/papers/Liang_Distant_Supervised_Centroid_Shift_A_Simple_and_Efficient_Approach_to_CVPR_2019_paper.pdf)|Distant Supervised Centroid Shift: A Simple and Effificient Approach to Visual Domain Adaptation
 MCS|VGG-FC7|87.1|74.8|84.8|92.3|77.3|87.1|84.7|76|95.9|88.9|87.4|92.9|85.8|CVPR|2019|-|[link](http://openaccess.thecvf.com/content_CVPR_2019/papers/Liang_Distant_Supervised_Centroid_Shift_A_Simple_and_Efficient_Approach_to_CVPR_2019_paper.pdf)|Distant Supervised Centroid Shift: A Simple and Effificient Approach to Visual Domain Adaptation
 DPDA|ResNet50|87.6|91|96.4|91.9|92|93.9|89.1|79|96.1|93.1|86|98|91.2|IJCAI|2019|-|[link](https://pdfs.semanticscholar.org/77d7/a7b36abc7cd3cf0ef492183469abb0342cc1.pdf)|Differentially Private Optimal Transport: Application to Domain Adaptation 
-CKB+MMD|ResNet50|87.5|93|89.8|93.3|91.7|92.9|92.3|83.4|99.7|92.8|85.8|100|91.9|CVPR|2021|-|[link](Conditional Bures Metric for Domain Adaptation)|Conditional Bures Metric for Domain Adaptation
+CKB+MMD|ResNet50|87.5|93.0|89.8|93.3|91.7|92.9|92.3|83.4|99.7|92.8|85.8|100.0|91.9|CVPR|2021|-|[link](Conditional Bures Metric for Domain Adaptation)|Conditional Bures Metric for Domain Adaptation
 RTN(mmd+ent)|ResNet50|88.1|95.5|95.2|93.7|94.2|96.9|93.8|84.6|99.2|92.5|86.6|100|93.4|NeurIPS|2016|-|[link](https://arxiv.org/pdf/1602.04433)|Unsupervised Domain Adaptation with Residual Transfer Networks
 
 * **MSDA(Multi-Source Domain Adaptation)**
 
-Name|BackBone|W|D|C|A|Avg
+Name|BackBone|W|D|C|A|Avg|
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 FADA+disentangle(III)|ResNet101|88.1±0.4|87.1±0.6|88.7±0.5|84.2±0.5|87.1|ICLR|2020|-|[link](https://arxiv.org/pdf/1911.02054)|Federated Adversarial Domain Adaptation
 MOSDANET|ResNet50|99.2|98.9|90.6|94.8|95.8|ECCV|2020|-|[link](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123710732.pdf)|Multi-Source Open-Set Deep Adversaria Domain Adaptation
@@ -201,7 +201,7 @@ SImpAl|ResNet101|100.0±0.0|100.0±0.0|94.6±0.2|95.6±0.3|97.5±0.1|NeurIPS|202
 #### **SynSign → GTSRB**
 > Type: **UDA**
 
-Name|Avg
+Name|Avg|
 |:--:|:--:|
 DANN|88.66|ICML|2015|[link](https://github.com/shucunt/domain_adaptation)|[link](http://proceedings.mlr.press/v37/ganin15.pdf)|Unsupervised Domain Adaptation by Backpropagation
 DSN w/MMD|92.6|NeurIPS|2016|[link](https://github.com/fungtion/DSN)|[link](https://arxiv.org/pdf/1608.06019)|Domain Separation Networks
@@ -298,7 +298,7 @@ RDA|81.7|-|-|-|-|-|-|-|-|-|-|-|-|IJCAI|2020|-|[link](https://arxiv.org/pdf/2004.
 #### **DomainNet**
 * **MSDA**
 
-Name|Backbone|i,p,q,r,s→c|c,p,q,r,s→i|c,i,q,r,s→p|c,i,p,r,s→q|c,i,p,q,s→r|c,i,p,q,r→s|Avg
+Name|Backbone|i,p,q,r,s→c|c,p,q,r,s→i|c,i,q,r,s→p|c,i,p,r,s→q|c,i,p,q,s→r|c,i,p,q,r→s|Avg|
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 FADA+disentangle|AlexNet|45.3±0.7|16.3±0.8|38.9±0.7|7.9±0.4|46.7±0.4|26.8±0.4|30.3|ICLR|2020|-|[link](https://arxiv.org/pdf/1911.02054)|Federated Adversarial Domaine Adaptation
 LtC-MSDA|GCN|63.1±0.5|28.7±0.7|56.1±0.5|16.3±0.5|66.1±0.6|53.8±0.6|47.4|ECCV|2020|[link](https://github.com/ChrisAllenMing/LtC-MSDA)|[link](https://arxiv.org/pdf/2007.08801)|Learning to Combine: Knowledge Aggregation for Multi-Source Domain Adaptation 
@@ -315,14 +315,14 @@ SImpAI101|ResNet101|66.4±0.8|26.5±0.5|56.6±0.7|18.9±0.8|68.0±0.5|55.5±0.3|
 
 * **MTDA**
 
-Name|Backbone|i,p,q,r,s→c|c,p,q,r,s→i|c,i,q,r,s→p|c,i,p,r,s→q|c,i,p,q,s→r|c,i,p,q,r→s|Avg
+Name|Backbone|i,p,q,r,s→c|c,p,q,r,s→i|c,i,q,r,s→p|c,i,p,r,s→q|c,i,p,q,s→r|c,i,p,q,r→s|Avg|
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 MCC|ResNet101|33.6|30|32.4|13.5|28|35.3|28.8|ECCV|2020|[link](https://github.com/thuml/Versatile-Domain-Adaptation)|[link](https://arxiv.org/pdf/1912.03699)|Minimum Class Confusion for Versatile Domain Adaptation
 
 * **Semi-supervised DA**
 
 Name|Backbone|R→C|R→P|P→C|C→S|S→P|R→S|P→R|Avg|
-|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 Meta-MME(AlexNet)||56.4|50.2|51.9|39.6|43.7|38.7|60.7|48.8||ECCV|2020|-|Online Meta-Learning for Multi-Source and Semi-Supervised Domain Adaptation
 Meta-MME(ResNet34)||73.5|70.3|72.8|62.8|68.0|63.8|79.2|70.1||ECCV|2020|-|Online Meta-Learning for Multi-Source and Semi-Supervised Domain Adaptation
 
@@ -388,7 +388,7 @@ avg|37.3|15.3|32.4|7.0|41.0|29.9|27.2
 
 2. ResNet101
 
-||clipart|infograph|painting|quickdraw|real|sketch|Avg
+||clipart|infograph|painting|quickdraw|real|sketch|Avg|
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 clipart|-|19.9|38.5|15.1|53.2|43.9|34.1
 infograph|31.9|-|32.7|6.9|44.7|28.5|28.9
@@ -492,7 +492,7 @@ LDRDA|ResNet101|85.1|44.5|81.0|-|-|-|16.4|15.2|80.1|84.8|59.4|31.9|73.2|41.0|32.
 
 ## 2.2 Domain Generalization
 #### **PACS**
-Name|Backbone|Art Painting|Cartoon|Photo|Sketch|Avg
+Name|Backbone|Art Painting|Cartoon|Photo|Sketch|Avg|
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 CIDDG|AlexNet|62.70|69.73|78.65|64.45|68.88|ECCV|2018|-|[link](http://openaccess.thecvf.com/content_ECCV_2018/papers/Ya_Li_Deep_Domain_Generalization_ECCV_2018_paper.pdf)|Deep Domain Generalization via Conditional Invariant Adversarial Networks
 MLDG|AlexNet|66.23|66.88|88|58.96|70.01|AAAI|2017|[link](https://github.com/HAHA-DL/MLDG)|[link](https://ojs.aaai.org/index.php/AAAI/article/download/11596/11455)|Learning to Generalize: Meta-Learning for Domain Generalization
@@ -517,7 +517,7 @@ MetaReg|ResNet18|83.7±0.19|77.2±0.31|95.5±0.24|70.3±0.28|81.70|NeurIPS|2018|
 MMLD|ResNet18|81.28|77.16|96.09|72.22|81.83|AAAI|2020|[link](https://github.com/mil-tokyo/dg_mmld)|[link](https://ojs.aaai.org/index.php/AAAI/article/view/6846/6700)|Domain Generalization Using a Mixture of Multiple Latent Domains 
 EISNet|ResNet18|81.89±0.88|76.44±0.31|95.93±0.06|74.33±1.37|82.15|ECCV|2020|[link](https://github.com/EmmaW9/EISNet)|[link](https://arxiv.org/pdf/2007.09317)|Learning from Extrinsic and Intrinsic Supervisions for Domain Generalization
 MASF|ResNet50|82.89|80.49|95.01|72.29|82.67|NeurIPS|2020|[link](https://github.com/biomedia-mira/masf)|[link](https://arxiv.org/pdf/1910.13582)|Domain Generalization via  Model-Agnostic Learning of Semantic Features
-DAML|ResNet18|83.0|74.1|95.6|78.1|82.7|CVPR|2021.0|-|[link](https://openaccess.thecvf.com/content/CVPR2021/papers/Shu_Open_Domain_Generalization_with_Domain-Augmented_Meta-Learning_CVPR_2021_paper.pdf)|Open Domain Generalization with Domain-Augmented Meta-Learning
+DAML|ResNet18|83.0|74.1|95.6|78.1|82.7|CVPR|2020|-|[link](https://openaccess.thecvf.com/content/CVPR2021/papers/Shu_Open_Domain_Generalization_with_Domain-Augmented_Meta-Learning_CVPR_2021_paper.pdf)|Open Domain Generalization with Domain-Augmented Meta-Learning
 L2A-OT|ResNet18|83.8|78.2|96.2|73.6|82.8|ECCV|2020|[link](https://github.com/mousecpn/L2A-OT)|[link](https://arxiv.org/pdf/2007.03304)|Learning to Generate Novel Domains for Domain Generalization
 DMG|ResNet50|82.57|78.11|94.49|78.32|83.37|ECCV|2020|[link](https://github.com/prithv3/DMG)|[link](https://arxiv.org/pdf/2008.12841)|Learning to Balance Specifificity and Invariance for In and Out of Domain Generalization
 MetaReg|ResNet50|87.2±0.13|79.2±0.27|97.6±0.31|70.3±0.18|83.60|NeurIPS|2018|[link](https://github.com/elliotbeck/MetaReg_PyTorch)|[link](http://papers.neurips.cc/paper/7378-metareg-towards-domain-generalization-using-meta-regularization.pdf)|MetaReg: Towards Domain Generalization using Meta-Regularization
@@ -556,7 +556,7 @@ ERM|ResNet50|97.7|64.3|73.4|74.6|77.5|ICLR|2021|-|[link](https://arxiv.org/pdf/2
 V-REx|ResNet50|-|-|-|-|77.9±0.5|ICML|2021|-|[link](http://proceedings.mlr.press/v139/krueger21a/krueger21a.pdf)|Out-of-Distribution Generalization via Risk Extrapolation
 
 #### **Office-Home**
-Name|Backbone|Art|Clipart|Product|Real World|Avg
+Name|Backbone|Art|Clipart|Product|Real World|Avg|
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 JiGen|ResNet18|53.04|47.51|71.47|72.79|61.20|CVPR|2019|[link](https://github.com/fmcarlucci/JigenDG)|[link](https://openaccess.thecvf.com/content_CVPR_2019/papers/Carlucci_Domain_Generalization_by_Solving_Jigsaw_Puzzles_CVPR_2020_paper.pdf)|Domain Generalization by Solving Jigsaw Puzzles
 DSON|ResNet18|59.37|44.70|71.84|74.68|62.90|ECCV|2020|-|[link](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123670069.pdf)|Learning to Optimize Domain Specifific Normalization for Domain Generalization
@@ -569,7 +569,7 @@ V-REx|ResNet18|-|-|-|-|66.7±0.5|ICML|2021|-|[link](http://proceedings.mlr.press
 #### **Rotated Mnist<sup>1</sup>**
 > Backbone: **LeNet**
 
-Name|M<sub>0</sub>|M<sub>15</sub>|M<sub>30</sub>|M<sub>45</sub>|M<sub>60</sub>|M<sub>75</sub>|Avg
+Name|M<sub>0</sub>|M<sub>15</sub>|M<sub>30</sub>|M<sub>45</sub>|M<sub>60</sub>|M<sub>75</sub>|Avg|
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 MTAE|77.9|95.7|91.2|77.3|92.4|79.9|85.7|ICCV|2015|[link](https://github.com/Emma0118/mate)|[link](https://arxiv.org/pdf/1508.07680v1)|Domain Generalization for Object Recognition with Multi-task Autoencoders
 D-MTAE|82.5|96.3|93.4|78.6|94.2|80.5|87.6|ICCV|2015|[link](https://github.com/Emma0118/mate)|[link](https://arxiv.org/pdf/1508.07680v1)|Domain Generalization for Object Recognition with Multi-task Autoencoders
@@ -586,7 +586,7 @@ ERM|95.9|98.9|98.8|98.9|98.9|96.4|98.0|ICLR|2021|-|[link](https://arxiv.org/pdf/
 #### **Rotated Mnist<sup>2</sup>**
 > Backbone: **LeNet**
 
-Name|M<sub>15</sub>,M<sub>30</sub>,M<sub>45</sub>,M<sub>60</sub>,M<sub>75</sub>->M<sub>0</sub>,M<sub>90</sub>|M<sub>30</sub>,M<sub>45</sub>,M<sub>60</sub>->M<sub>0</sub>,M<sub>60</sub>|M<sub>30</sub>,M<sub>45</sub>->M<sub>0</sub>,M<sub>90</sub>|Avg
+Name|M<sub>15</sub>,M<sub>30</sub>,M<sub>45</sub>,M<sub>60</sub>,M<sub>75</sub>->M<sub>0</sub>,M<sub>90</sub>|M<sub>30</sub>,M<sub>45</sub>,M<sub>60</sub>->M<sub>0</sub>,M<sub>60</sub>|M<sub>30</sub>,M<sub>45</sub>->M<sub>0</sub>,M<sub>90</sub>|Avg|
 |:--:|:--:|:--:|:--:|:--:|
 MASF|93.2±0.2|69.4±1.32|60.8±1.53|74.5|NeurIPS|2020|[link](https://github.com/biomedia-mira/masf)|[link](https://arxiv.org/pdf/1910.13580)|Domain Generalization via  Model-Agnostic Learning of Semantic Features
 ERM|93.9±0.67|77.9±2.44|64.6±3.23|78.7|ICML(workshop)|2020|[link](https://github.com/microsoft/robustdg)|[link](https://arxiv.org/pdf/2006.07500.pdf)|Domain Generalization using Causal Matching
@@ -596,7 +596,7 @@ MatchDG|95.1±0.25|83.6±1.44|69.7±1.30|-|ICML|2021|[link](https://github.com/m
 #### **Digit-Five**
 > Backbone: **LeNet**
 
-Name|Mnist|Mnist-M|USPS|SVHN|SYN|Avg
+Name|Mnist|Mnist-M|USPS|SVHN|SYN|Avg|
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 L2A-OT|96.7|63.9|-|68.6|83.2|78.1|ECCV|2020|[link](https://github.com/mousecpn/L2A-OT)|[link](https://arxiv.org/pdf/2007.03304)|Learning to Generate Novel Domains for Domain Generalization
 DSON|89.62|79.00|91.63|81.02|95.34|87.32|ECCV|2020|-|[link](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123670069.pdf)|Learning to Optimize Domain Specifific Normalization for Domain Generalization
@@ -605,7 +605,7 @@ DSON|89.62|79.00|91.63|81.02|95.34|87.32|ECCV|2020|-|[link](http://www.ecva.net/
 
 #### **DomainNet**
 
-Name|Backbone|C|I|P|Q|R|S|Avg
+Name|Backbone|C|I|P|Q|R|S|Avg|
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 DMG|AlexNet|50.06|12.23|34.44|13.07|46.98|30.13|31.15|ECCV|2020|[link](https://github.com/prithv1/DMG)|[link](https://arxiv.org/pdf/2008.12839)|Learning to Balance Specifificity and Invariance for In and Out of Domain Generalization 
 DMG|ResNet18|60.07|18.76|44.53|14.16|54.72|41.73|39.00|ECCV|2020|[link](https://github.com/prithv1/DMG)|[link](https://arxiv.org/pdf/2008.12839)|Learning to Balance Specifificity and Invariance for In and Out of Domain Generalization 
@@ -613,14 +613,14 @@ DMG|ResNet50|58.1±0.3|18.8±0.3|467.±0.3|12.2±0.4|59.6±0.1|49.8±0.4|40.9|EC
 ERM|ResNet50|65.24|22.15|50.03|15.68|59.63|49.02|43.63|ICLR|2021|-|[link](https://arxiv.org/pdf/2007.01434)|In Search of Lost Domain Generalization
 
 #### **LT-ImageNet**
-Name|Backbone|Avg
-|:--:|:--:|:--:|
+Name|Backbone|Avg|
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 ERM|ResNet50|53.7|CVPR|2021|[link](https://github.com/abhimanyudubey/GeoYFCC)|[link](https://openaccess.thecvf.com/content/CVPR2021/papers/Dubey_Adaptive_Methods_for_Real-World_Domain_Generalization_CVPR_2021_paper.pdf)|Adaptive Methods for Real-World Domain Generalization
 DA-ERM|ResNet50|56.1|CVPR|2021|[link](https://github.com/abhimanyudubey/GeoYFCC)|[link](https://openaccess.thecvf.com/content/CVPR2021/papers/Dubey_Adaptive_Methods_for_Real-World_Domain_Generalization_CVPR_2021_paper.pdf)|Adaptive Methods for Real-World Domain Generalization
 
 #### **Geo-YFCC**
-Name|Backbone|Avg
-|:--:|:--:|:--:|
+Name|Backbone|Avg|
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 ERM|ResNet50|22.4|CVPR|2021|[link](https://github.com/abhimanyudubey/GeoYFCC)|[link](https://openaccess.thecvf.com/content/CVPR2021/papers/Dubey_Adaptive_Methods_for_Real-World_Domain_Generalization_CVPR_2021_paper.pdf)|Adaptive Methods for Real-World Domain Generalization
 DA-ERM|ResNet50|23.4|CVPR|2021|[link](https://github.com/abhimanyudubey/GeoYFCC)|[link](https://openaccess.thecvf.com/content/CVPR2021/papers/Dubey_Adaptive_Methods_for_Real-World_Domain_Generalization_CVPR_2021_paper.pdf)|Adaptive Methods for Real-World Domain Generalization
 
@@ -628,20 +628,20 @@ DA-ERM|ResNet50|23.4|CVPR|2021|[link](https://github.com/abhimanyudubey/GeoYFCC)
 #### **Digit-Five**
 > Backbone: **LeNet**
 
-Name|Mnist|Mnist-M|USPS|SVHN|SYN|Avg
+Name|Mnist|Mnist-M|USPS|SVHN|SYN|Avg|
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 RSDA+ASR|-|80.8±0.6|82.4±1.4|52.8±3.8 |64.5±1.1 |70.1|CVPR|2021|-|[link](https://openaccess.thecvf.com/content/CVPR2021/papers/Fan_Adversarially_Adaptive_Normalization_for_Single_Domain_Generalization_CVPR_2021_paper.pdf)
 PDEN|-|82.2|85.26|62.21|69.39|74.77|CVPR|2021|[link](https://github.com/lileicv/PDEN)|[link](https://openaccess.thecvf.com/content/CVPR2021/papers/Li_Progressive_Domain_Expansion_Network_for_Single_Domain_Generalization_CVPR_2021_paper.pdf)
 
 #### **CIFAR10-C**
 Name|BackBone|Level1|Level2|Level3|Level4|Level5|Avg|
-|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-ADA+ASR|WRN|91.5±0.2|89.3±0.6|86.9±0.5|83.7±0.7|78.4±0.8|86|CVPR|2021|-|[link](https://openaccess.thecvf.com/content/CVPR2021/papers/Fan_Adversarially_Adaptive_Normalization_for_Single_Domain_Generalization_CVPR_2021_paper.pdf)|Adversarially Adaptive Normalization for Single Domain Generalization
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+ADA+ASR|WRN|91.5±0.2|89.3±0.6|86.9±0.5|83.7±0.7|78.4±0.8|86.0|CVPR|2021|-|[link](https://openaccess.thecvf.com/content/CVPR2021/papers/Fan_Adversarially_Adaptive_Normalization_for_Single_Domain_Generalization_CVPR_2021_paper.pdf)|Adversarially Adaptive Normalization for Single Domain Generalization
 PDEN|STN|90.62|88.91|87.03|83.71|77.47|85.55|CVPR|2021|[link](https://github.com/lileicv/PDEN)|[link](https://openaccess.thecvf.com/content/CVPR2021/papers/Li_Progressive_Domain_Expansion_Network_for_Single_Domain_Generalization_CVPR_2021_paper.pdf)|Progressive Domain Expansion Network for Single Domain Generalization
 
 
 #### **PACS**
-Name|Backbone|Art Painting|Cartoon|Photo|Sketch|Avg
+Name|Backbone|Art Painting|Cartoon|Photo|Sketch|Avg|
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 RSC+ASR|ResNet18|76.7|79.3|54.6|61.6|68.1|CVPR|2021|-|[link](https://openaccess.thecvf.com/content/CVPR2021/papers/Fan_Adversarially_Adaptive_Normalization_for_Single_Domain_Generalization_CVPR_2021_paper.pdf)|Adversarially Adaptive Normalization for Single Domain Generalization
 
@@ -654,11 +654,11 @@ ELCFS|CVPR|2021|[link](https://github.com/liuquande/FedDG-ELCFS)|[link](https://
 
 ## 2.5 Open Domain Generalization
 #### **PACS**
-Name|Backbone|Art Painting|Cartoon|Photo|Sketch|Avg
+Name|Backbone|Art Painting|Cartoon|Photo|Sketch|Avg|
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-DAML|-|54.10|58.50|75.69|73.65|65.49±0.36|CVPR|2021.0|-|[link](https://openaccess.thecvf.com/content/CVPR2021/papers/Shu_Open_Domain_Generalization_with_Domain-Augmented_Meta-Learning_CVPR_2021_paper.pdf)|Open Domain Generalization with Domain-Augmented Meta-Learning
+DAML|-|54.10|58.50|75.69|73.65|65.49±0.36|CVPR|2021|-|[link](https://openaccess.thecvf.com/content/CVPR2021/papers/Shu_Open_Domain_Generalization_with_Domain-Augmented_Meta-Learning_CVPR_2021_paper.pdf)|Open Domain Generalization with Domain-Augmented Meta-Learning
 
 #### **VLCS**
-Name|Backbone|Art Painting|Cartoon|Photo|Sketch|Avg
+Name|Backbone|Art Painting|Cartoon|Photo|Sketch|Avg|
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-DAML|-|45.13|65.99|61.54|53.13|56.45±0.21|CVPR|2021.0|-|[link](https://openaccess.thecvf.com/content/CVPR2021/papers/Shu_Open_Domain_Generalization_with_Domain-Augmented_Meta-Learning_CVPR_2021_paper.pdf)|Open Domain Generalization with Domain-Augmented Meta-Learning
+DAML|-|45.13|65.99|61.54|53.13|56.45±0.21|CVPR|2021|-|[link](https://openaccess.thecvf.com/content/CVPR2021/papers/Shu_Open_Domain_Generalization_with_Domain-Augmented_Meta-Learning_CVPR_2021_paper.pdf)|Open Domain Generalization with Domain-Augmented Meta-Learning
